@@ -1,6 +1,5 @@
 import sqlite3
 
-
 connection = sqlite3.connect('student.db') #file name
 print('Database opened successfully')
 
